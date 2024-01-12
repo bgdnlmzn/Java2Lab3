@@ -1,0 +1,117 @@
+Figures:
+- Point 1:
+  Coordinates:
+  - 2
+  - 4
+- Point 2:
+  Coordinates:
+  - 3
+  - 5
+- Point 3:
+  Coordinates:
+  - 3
+  - 1
+- Point 4:
+  Coordinates:
+  - 3
+  - 6
+- Triangle 1:
+  Coordinates:
+  - 2
+  - 4
+  - 3
+  - 5
+  - 6
+  - 7
+- Triangle 2:
+  Coordinates:
+  - 12
+  - 4
+  - 7
+  - 4
+  - 8
+  - 7
+- Triangle 3:
+  Coordinates:
+  - 3
+  - 1
+  - 2
+  - 9
+  - 6
+  - 8
+- Triangle 4:
+  Coordinates:
+  - 2
+  - 3
+  - 4
+  - 7
+  - 3
+  - 6
+- Rectangle 1:
+  Coordinates:
+  - 2
+  - 4
+  - 3
+  - 5
+  - 6
+  - 7
+  - 2
+  - 9
+- Rectangle 2:
+  Coordinates:
+  - 3
+  - 4
+  - 3
+  - 7
+  - 4
+  - 4
+  - 4
+  - 7
+- Rectangle 3:
+  Coordinates:
+  - 3
+  - 1
+  - 2
+  - 9
+  - 6
+  - 8
+  - 12
+  - 21
+- Rectangle 4:
+  Coordinates:
+  - 2
+  - 3
+  - 4
+  - 7
+  - 3
+  - 6
+  - 1
+  - 1
+- Ellipse 1:
+  Coordinates:
+  - 3
+  - 12
+  Height: 12
+  Weight: 3
+  Angle: 35
+- Ellipse 2:
+  Coordinates:
+  - 4
+  - 11
+  Height: 5
+  Weight: 1
+  Angle: 0
+- Ellipse 3:
+  Coordinates:
+  - 4
+  - 4
+  Height: 4
+  Weight: 5
+  Angle: 90
+- Ellipse 4:
+  Coordinates:
+  - 6
+  - 9
+  Height: 6
+  Weight: 3
+  Angle: 5
